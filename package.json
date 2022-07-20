@@ -1,0 +1,22 @@
+{
+  "name": "my-arcgis.js",
+  "version": "1.0.0",
+  "description": "Repo to learn and experiment with ArcGIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWNicholson/arcgis-js.git"
+  },
+  "author": "JW Nicholson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWNicholson/arcgis-js/issues"
+  },
+  "homepage": "https://github.com/JWNicholson/arcgis-js#readme",
+  "dependencies": {
+    
+  }
+}
